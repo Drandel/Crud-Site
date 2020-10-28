@@ -1,0 +1,13 @@
+.list-group{
+    width: 100%;
+}
+
+.article-container{
+    transition: ease .25s;
+}
+
+.article-container:hover{
+    background-color: #4f4f4f;
+    color: white;
+    padding: 2%;
+}
